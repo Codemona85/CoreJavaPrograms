@@ -31,6 +31,7 @@ public class ArithmaticOperationObject {
     public static void Remainder(int a,int b){
         int rem= b%a;
         System.out.println("Remainder is:" +rem);
+        System.out.println("updated");
     }
 
 }
